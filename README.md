@@ -1,6 +1,10 @@
+ ## Figma Layout
+
+   Верстка макета из фигмы ExpressTransService
+ 
  ## Running the code
 
-  Run `npm i` to install the dependencies.
+  Запустите команду `npm i` чтобы скачать все зависимости.
 
-  Run `npm run dev` to start the development server.
+  Запустите команду `npm run dev` чтобы запустить сервер разработки.
   
